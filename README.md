@@ -1,6 +1,6 @@
 ## About me
 
-I'm an undergraduate student at the University of Southern California, double majoring in Applied and Computational Mathematics and Business Administration. I am interested in business particularly in the realms of business analytics and data science. My personal interests also include politics and sports. Feel free to reach out to me at alexhan@usc.edu.
+I'm an undergraduate student at the University of Southern California, double majoring in Applied and Computational Mathematics and Business Administration. I am interested in business particularly in the realms of business analytics and data science. My personal interests also include boba tea and sports. Feel free to reach out to me at alexhan@usc.edu.
 
 ## Languages and Tools
   <div align=center>
